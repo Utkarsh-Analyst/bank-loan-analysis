@@ -1,0 +1,26 @@
+# Power BI temp files
+*.pbix.bak
+*.pbix.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Python (if any scripts used)
+__pycache__/
+*.py[cod]
+*.env
+
+# Data files (exclude large raw data — add sample only)
+data/raw/
+data/*.xlsx
+data/*.csv
+!data/sample_data.csv
