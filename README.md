@@ -22,7 +22,7 @@ The report is structured across **3 interactive pages**:
 
 | Summary Page | Overview Page | Details Page |
 |---|---|---|
-| ![Summary](screenshots/summary.png) | ![Overview](screenshots/overview.png) | ![Details](screenshots/details.png) |
+| ![Summary](summary.png) | ![Overview](overview.png) | ![Details](details.png) |
 
 ---
 
