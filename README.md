@@ -18,7 +18,6 @@ The report is structured across **3 interactive pages**:
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your dashboard pages here)*
 
 | Summary Page | Overview Page | Details Page |
 |---|---|---|
